@@ -1,2 +1,2 @@
 # vSphereScripts
-Various vSphere script
+Various vSphere scripts
